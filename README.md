@@ -43,7 +43,7 @@ Sebuah 'petisi' adalah suara yang diprakarsai oleh moderator dalam:
 • Usul untuk menghukum atau mendapatkan pendapat tim moderasi akan suatu hal.
 
 A7. Peraturan Ibu/Ayah
-Anda sebaiknya menggunakan #contact-staff sebelum mengirim pesan langsung kepada admin atau moderator. Namun jika anda perlu untuk berpesan langsung ke mereka dengan alasan pribadi, anda tidak seharusnya pergi ke moderator/admin lain kalau mereka tidak memberikan apa yang anda minta. Dengan pengecualian ada masalah kepegawaian serius yang harus diselesaikan oleh administrator. Dalam setiap situasi, moderator mempunyai kekuasaan layaknya admin.
+Anda sebaiknya menggunakan #contact-staff sebelum mengirim pesan langsung kepada admin atau moderator. Namun jika anda perlu berpesan langsung ke mereka dengan alasan pribadi, anda tidak seharusnya pergi ke moderator/admin lain kalau mereka tidak memberikan apa yang anda minta. Dengan pengecualian ada masalah kepegawaian serius yang harus diselesaikan oleh administrator. Dalam setiap situasi, moderator mempunyai kekuasaan layaknya admin.
 Peraturan ini dinamakan seperti anak-anak yang pergi ke orang tua lain setelah mereka ditolak mengenai suatu hal oleh orang tua satu untuk mendapatkan persetujuan.
 
 Bagian B - Peraturan Server Umum
