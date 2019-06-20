@@ -9,7 +9,7 @@ Daftar isi
 
 Bagian A - Ketentuan Staff
 A1. Putusan Akhir
-Jika anggota staf membuat sebuah putusan atas sebuah situasi, maka berakhirlah itu. Perdebatan selesai dan pengguna harus meninggalkan topik pembicaraan. Jika pengguna tidak puas dengan keputusan Moderator, ia dapat menghubungi anggota staf yang lebih tinggi lewat pesan pribadi.
+Berakhilah sebuah situasi jika seorang anggota staf membuat sebuah keputusan. Perdebatan selesai dan pengguna harus meninggalkan topik pembicaraan. Jika pengguna tidak puas dengan keputusan Moderator, ia dapat menghubungi anggota staf yang lebih tinggi lewat pesan pribadi.
 A1-1. Jika anggota staf memerintahkan pengguna untuk berhenti melakukan sesuatu, mereka harus dipatuhi.
 Tidak perlu dipertanyakan lagi. Jika anda tidak menyukai tingkah laku seorang anggota staf, anda dapat mengarahkan pesan kepada anggota staf yang lebih tinggi untuk mengatasi kekhawatiran anda.
 
